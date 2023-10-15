@@ -8,6 +8,8 @@
 
 # <br>:hammer_and_wrench: Descrição
 ## Uma simples GUI que, dado o nome válido de uma cidade, faz o uso de uma api e mostra a temperatura, vento e pressão atmosférica
+### Crédito das imagens: https://youtube.com/@parvatcomputertechnology?si=pYaNGlHjAMZWp9mh
+
 # <br>:desktop_computer: Preview
 
 ![tempo](https://github.com/Sinuelo/AppdoTempo/assets/98895433/7c3da3fb-2bed-4a30-9b4b-2aa53cedd836)
